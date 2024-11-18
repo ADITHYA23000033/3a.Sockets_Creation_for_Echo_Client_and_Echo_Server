@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+## Name : Adithya V
+## Register no: 212223110001
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -9,8 +11,7 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-### Name : Adithya V
-### Register no: 212223110001
+
 ### client
 ```
 import socket
